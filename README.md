@@ -1,4 +1,4 @@
-# Linker
+# Linker_OS
 This lab implements a two-pass linker by C++. 
 
 Assume a target machine with properties: 
